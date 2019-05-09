@@ -15,6 +15,8 @@ public class MyVeryImportantClass {
     long myLong;
     // коллекции из стандартный библиотерки.
     List<String> myArrayList;
+    //статик по просьбам
+    private static String ztatic = "fuuu";
 
     public MyVeryImportantClass(String[] stringArray, char myChar,
                                 int myInt, long myLong,
